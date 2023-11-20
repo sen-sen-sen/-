@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    color: #99ddff;
+    
+  }
+  p {
+    color: #99ddff;
+    border-style: solid;
+    border-color: #99ddff;
+    border-radius: 5px;
+    font-size: 250%;
+    text-align: center;
+    
+  }
+  img {
+    margin-left: 1000px;
+  }
+  .button {
+    width: 200px; 
+    height: 50px; 
+  }
+
